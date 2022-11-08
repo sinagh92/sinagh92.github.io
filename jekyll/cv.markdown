@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /test_page/
+permalink: /cv/
 ---
 
 This is the test_page of projects by Sina Ghaffari.
